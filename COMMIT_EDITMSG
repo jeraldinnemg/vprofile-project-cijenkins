@@ -2,19 +2,8 @@
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 #
-# On branch main
+# On branch prod
 # Changes to be committed:
-#	modified:   vprofile-project-cijenkins
-#   modified: icluding buildjob
-#   modified: pom.xml
-#   modified: setting.xml
-#   modified: updated pipeline with unit test and code analysis
-#   modified: updated pipeline with sonar analysis stage
-#   modified: updated quality gate sonarque
-#   modified: updated timestamp plugin artifact
-#   modified: updated slack (post)
-#   modified: docker build
-#   modified: deploytoecs controlller
+#	modified:   ProdPileline/Jenkinsfile
 # 
-#   profile
 
